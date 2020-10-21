@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Service Manager</string>
+    <string name="Register" translatable="false">Register</string>
+    <string name="Admin" translatable="false">Admin</string>
+    <string name="Submit" translatable="false">Submit</string>
+    <string name="OTP" translatable="false">Send Otp</string>
+
+    //Edit text
+    <string name="enterOTP" translatable="false">Enter OTP</string>
+    <string name="mobileNumber" translatable="false">\tEnter Mobile Number</string>
+    <string name="Name" translatable="false">Enter Name</string>
+    <string name="password" translatable="false">Enter Password</string>
+    <string name="email" translatable="false">Enter Email</string>
+
+
+</resources>

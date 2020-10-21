@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Service Manager</string>
+    <string name="Register">"નોંધણી કરો "</string>
+    <string name="Admin">એડમિન</string>
+    <string name="Submit">સબમિટ કરો</string>
+    <string name="OTP">ઓટીપી મોકલો</string>
+    <string name="enterOTP">"ઓટીપી દાખલ કરો "</string>
+    <string name="mobileNumber">મોબાઇલ નંબર દાખલ કરો</string>
+    <string name="Name">નામ દાખલ કરો</string>
+    <string name="password">પાસવર્ડ દાખલ કરો</string>
+    <string name="email">ઇમેઇલ દાખલ કરો</string>
+</resources>
